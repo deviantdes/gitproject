@@ -13,11 +13,5 @@ namespace GitApp
             Console.Write("123");
             Console.Write("test print");
         }
-
-
-        public void printtest()
-        {
-            Console.Write("test");
-        }
     }
 }
