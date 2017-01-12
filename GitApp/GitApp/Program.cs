@@ -12,7 +12,7 @@ namespace GitApp
         {
             Console.Write("123");
             Console.Write("test print");
-            Console.read();
+            Console.Read();
         }
     }
 }
