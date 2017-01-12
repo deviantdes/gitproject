@@ -11,6 +11,7 @@ namespace GitApp
         static void Main(string[] args)
         {
             Console.Write("123");
+            Console.Write("test print");
         }
     }
 }
