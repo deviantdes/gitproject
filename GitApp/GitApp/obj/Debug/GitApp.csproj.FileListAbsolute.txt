@@ -1,1 +1,2 @@
 C:\Users\Desmond\Desktop\GitProjects\GitApp\GitApp\bin\Debug\GitApp.exe.config
+C:\Users\Desmond\Desktop\ppp\gitproject\GitApp\GitApp\bin\Debug\GitApp.exe.config
