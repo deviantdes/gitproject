@@ -14,5 +14,10 @@ namespace GitApp
             Console.Write("test print");
         }
 
+
+        public void printtest()
+        {
+            Console.Write("test");
+        }
     }
 }
